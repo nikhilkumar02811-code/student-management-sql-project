@@ -21,7 +21,7 @@ This project demonstrates **end-to-end database design + analysis using real-wor
 🗂️ Project Structure
 
 ```text id="s4m3ha"
-schema.sql   → Tables + data  
+Student project Data.sql   → Tables + data  
 queries.sql  → Analysis queries  
 README.md  
 ```
