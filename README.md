@@ -22,7 +22,7 @@ This project demonstrates **end-to-end database design + analysis using real-wor
 
 ```text id="s4m3ha"
 Student project Data.sql   → Tables + data  
-queries.sql  → Analysis queries  
+Student Project .sql  → Analysis queries  
 README.md  
 ```
 
@@ -49,8 +49,8 @@ README.md
 
 🚀 How to Run
 
-1. Run `schema.sql`
-2. Run `queries.sql`
+1. Run `Student project Data.sql`
+2. Run `Student Project .sql`
 
 
 
